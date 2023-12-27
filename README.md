@@ -32,6 +32,4 @@ python snusbase.py
 
 Follow the on-screen instructions to enter a search term and handle the results.
 
-## Author
-
 Durk
