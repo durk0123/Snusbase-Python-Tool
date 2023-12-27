@@ -1,5 +1,5 @@
 
-# Snusbase Query Tool
+# Snusbase Free (NO SUB)
 
 This Python script simply uses a workaround for Snusbase. Instead of using the standard API, which often requires a subscription (LOL), this script taps into a lesser-known, beta API endpoint offered by Snusbase. You can use usernames or email formats from what I know.
 
@@ -17,7 +17,7 @@ Run the script in your Python environment. You will be prompted to enter a searc
 
 ## Disclaimer
 
-This tool is for educational and research purposes only. The user is responsible for ensuring lawful and ethical usage of this script.
+This tool is for educational and research purposes only.
 
 ## Requirements
 
