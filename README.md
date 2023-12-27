@@ -6,10 +6,7 @@ This Python script simply uses a workaround for Snusbase. Instead of using the s
 ## Features
 
 - **Alternative API Access**: Bypasses the standard Snusbase API, using a free beta endpoint.
-- **Interactive Console UI**: Easy-to-use console-based user interface.
-- **Color-Coded Error Messages**: Enhanced readability with colored terminal outputs for errors.
 - **File Saving Option**: Allows saving the query results in JSON format.
-- **Cross-Platform Compatibility**: Works on different operating systems with terminal clear functionality.
 
 ## Usage
 
